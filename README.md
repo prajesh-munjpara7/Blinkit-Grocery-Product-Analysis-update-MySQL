@@ -1,4 +1,4 @@
-# 1. Blinkit-Grocery-Product-Analysis-update (MySQL)
+# 1. Blinkit-Grocery-Product-Analysis (MySQL)
 #### This project analyzes Blinkit’s grocery sales data using SQL to identify sales trends, customer preferences, and outlet performance. Key insights include top-selling products, pricing patterns, and outlet efficiency. The findings provide strategies to optimize operations, enhance customer satisfaction, and boost revenue.
 # 2. Project Overview
 #### This project involves analyzing Blinkit’s grocery sales data to extract insights into sales trends, customer behavior, and outlet performance. The dataset includes information on grocery items, their sales, and outlet attributes. By writing and executing SQL queries, we aim to derive actionable insights to improve business operations and customer satisfaction.
